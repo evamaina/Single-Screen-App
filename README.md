@@ -25,10 +25,12 @@ You may also include Udacity's website: www.udacity.com, or any other descriptiv
 
 IMAGE: You can use any image you like that you feel represents Udacity or what Udacity does. Feel free to be creative!
 
+![alt text](https://github.com/evamaina/Single-Screen-App/blob/master/app/src/main/res/drawable/example.png "Screenshot 1")
 
 
-![alt text](https://github.com/evamaina/Single-Screen-App/blob/master/app/src/main/res/drawable/udacity.png "Screenshot 1")
+![alt text](https://github.com/evamaina/Single-Screen-App/blob/master/app/src/main/res/drawable/udacity.png "Screenshot 2")
 
 
-![alt text](https://github.com/evamaina/Single-Screen-App/blob/master/app/src/main/res/drawable/udacity1.png "Screenshot 2")
+![alt text](https://github.com/evamaina/Single-Screen-App/blob/master/app/src/main/res/drawable/udacity1.png "Screenshot 3")
+
 
