@@ -9,28 +9,28 @@ To complete this project, you will need to create an XML document in Android Stu
 Be sure to include a ViewGroup (RelativeLayout or LinearLayout) and enough views (Image, Text, or Button views) to complete the project. 
 
 #### Important Specifications
-Name your project HelloAndroid
 
-Your design must include the following text (business name, address, and phone number):
+*Name your project HelloAndroid
 
-Udacity
+*Your design must include the following text (business name, address, and phone number):
 
-2465 Latham St
+*Udacity
 
-Mountain View, CA 94043
+*2465 Latham St
 
-650-555-5555
+*Mountain View, CA 94043
 
-You may also include Udacity's website: www.udacity.com, or any other descriptive text about Udacity (this is optional)
+*650-555-5555
 
-IMAGE: You can use any image you like that you feel represents Udacity or what Udacity does. Feel free to be creative!
+*You may also include Udacity's website: www.udacity.com, or any other descriptive text about Udacity (this is optional)
+
+**IMAGE:** You can use any image you like that you feel represents Udacity or what Udacity does. Feel free to be creative!
 
 ![alt text](https://github.com/evamaina/Single-Screen-App/blob/master/app/src/main/res/drawable/example.png "Screenshot 1")
 
 
 ![alt text](https://github.com/evamaina/Single-Screen-App/blob/master/app/src/main/res/drawable/udacity.png "Screenshot 2")
-
-
 ![alt text](https://github.com/evamaina/Single-Screen-App/blob/master/app/src/main/res/drawable/udacity1.png "Screenshot 3")
+
 
 
