@@ -31,11 +31,7 @@ To complete this project, you will need to create an XML document in Android Stu
 
 #### Below are sample images for my project:
 
-#### desired output
+
 ![alt text](https://github.com/evamaina/Single-Screen-App/blob/master/app/src/main/res/drawable/example.png "Screenshot 1")
 
-#### progress
-![alt text](https://github.com/evamaina/Single-Screen-App/blob/master/app/src/main/res/drawable/udacity.png "Screenshot 2")
-
-#### Final project output image
 ![alt text](https://github.com/evamaina/Single-Screen-App/blob/master/app/src/main/res/drawable/udacity1.png "Screenshot 3")
