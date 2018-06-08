@@ -26,10 +26,15 @@ Be sure to include a ViewGroup (RelativeLayout or LinearLayout) and enough views
 
 **IMAGE:** You can use any image you like that you feel represents Udacity or what Udacity does. Feel free to be creative!
 
+#### Below are sample images for my project:
+
+#### Below is the desired output
 ![alt text](https://github.com/evamaina/Single-Screen-App/blob/master/app/src/main/res/drawable/example.png "Screenshot 1")
 
-
+#### progress
 ![alt text](https://github.com/evamaina/Single-Screen-App/blob/master/app/src/main/res/drawable/udacity.png "Screenshot 2")
+
+#### Final project output image
 ![alt text](https://github.com/evamaina/Single-Screen-App/blob/master/app/src/main/res/drawable/udacity1.png "Screenshot 3")
 
 
